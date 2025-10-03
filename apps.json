@@ -1,0 +1,26 @@
+[
+  {
+    "name": "App One",
+    "description": "DEscription of the app number 1",
+    "url": "https://direct.app.url/path",
+    "image": "https://wwww.image.full/path"
+  },
+  {
+    "name": "App Two",
+    "description": "DEscription of the app number 2",
+    "url": "https://direct.app.url/path",
+    "image": "https://wwww.image.full/path"
+  },
+  {
+    "name": "App Three",
+    "description": "DEscription of the app number 3",
+    "url": "https://direct.app.url/path",
+    "image": "https://wwww.image.full/path"
+  },
+  {
+    "name": "App One Four",
+    "description": "DEscription of the app number 4",
+    "url": "https://direct.app.url/path",
+    "image": "https://wwww.image.full/path"
+  }
+]
