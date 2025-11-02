@@ -1,0 +1,62 @@
+[
+  {
+    "app_id": "com.fbkdev.thecore_game",
+    "affiliates": [
+      {
+        "url": "https://affiliate.link/1?ref=fbkdev",
+        "text": "Lorem ipsum dolor TheCore Game",
+        "image": "https://placehold.co/400x60?text=Affiliate+Image1+[TheCore+Game]"
+      },
+      {
+        "url": "https://affiliate.link/2?ref=fbkdev",
+        "text": "Lorem ipsum dolor TheCore Game",
+        "image": "https://placehold.co/400x80?text=Affiliate+Image2+[TheCore+Game]"
+      }
+    ]
+  },
+  {
+    "app_id": "com.fbkdev.math_mastery_game",
+    "affiliates": [
+      {
+        "url": "https://affiliate.link/1?ref=fbkdev",
+        "text": "Lorem ipsum dolor Math Mastery Game",
+        "image": "https://placehold.co/400x60?text=Affiliate+Image1+[Math+Mastery+Game]"
+      },
+      {
+        "url": "https://affiliate.link/2?ref=fbkdev",
+        "text": "Lorem ipsum dolor Math Mastery Game",
+        "image": "https://placehold.co/400x80?text=Affiliate+Image2+[Math+Mastery+Game]"
+      }
+    ]
+  },
+  {
+    "app_id": "com.fbkdev.spending_tracker",
+    "affiliates": [
+      {
+        "url": "https://affiliate.link/1?ref=fbkdev",
+        "text": "Lorem ipsum dolor Spending Tracker",
+        "image": "https://placehold.co/400x60?text=Affiliate+Image1+[Spending+Tracker]"
+      },
+      {
+        "url": "https://affiliate.link/2?ref=fbkdev",
+        "text": "Lorem ipsum dolor Spending Tracker",
+        "image": "https://placehold.co/400x80?text=Affiliate+Image2+[Spending+Tracker]"
+      }
+    ]
+  },
+  {
+    "app_id": "com.fbkdev.spin_the_bottle_game",
+    "affiliates": [
+      {
+        "url": "https://affiliate.link/1?ref=fbkdev",
+        "text": "Lorem ipsum dolor Spin The Bottle Game",
+        "image": "https://placehold.co/400x60?text=Affiliate+Image1+[Spin+The+Bottle+Game]"
+      },
+      {
+        "url": "https://affiliate.link/2?ref=fbkdev",
+        "text": "Lorem ipsum dolor Spin The Bottle Game",
+        "image": "https://placehold.co/400x80?text=Affiliate+Image2+[Spin+The+Bottle+Game]"
+      }
+    ]
+  }
+]
