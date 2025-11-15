@@ -30,7 +30,7 @@
     ]
   },
   {
-    "app_id": "com.fbkdev.spending_tracker.PAUSE",
+    "app_id": "com.fbkdev.spending_tracker",
     "affiliates": [
       {
         "url": "https://affiliate.link/1?ref=fbkdev",
