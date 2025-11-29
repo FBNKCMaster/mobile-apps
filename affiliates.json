@@ -1,5 +1,20 @@
 [
   {
+    "app_id": "com.example.app_starter_kit",
+    "affiliates": [
+      {
+        "url": "https://affiliate.link/1?ref=fbkdev",
+        "text": "Lorem ipsum dolor Starter Kit",
+        "image": "https://placehold.co/400x60?text=Affiliate+Image1+[Starter+Kit]"
+      },
+      {
+        "url": "https://affiliate.link/2?ref=fbkdev",
+        "text": "Lorem ipsum dolor Starter Kit",
+        "image": "https://placehold.co/400x80?text=Affiliate+Image2+[Starter+Kit]"
+      }
+    ]
+  },
+  {
     "app_id": "com.fbkdev.thecore_game",
     "affiliates": [
       {
