@@ -73,5 +73,20 @@
         "image": "https://placehold.co/400x80?text=Affiliate+Image2+[Spin+The+Bottle+Game]"
       }
     ]
+  },
+  {
+    "app_id": "com.fbkdev.luck_meter",
+    "affiliates": [
+      {
+        "url": "https://affiliate.link/1?ref=fbkdev",
+        "text": "Lorem ipsum dolor Luck Meter",
+        "image": "https://placehold.co/400x60?text=Affiliate+Image1+[Luck+Meter]"
+      },
+      {
+        "url": "https://affiliate.link/2?ref=fbkdev",
+        "text": "Lorem ipsum dolor Luck Meter",
+        "image": "https://placehold.co/400x80?text=Affiliate+Image2+[Luck+Meter]"
+      }
+    ]
   }
 ]
