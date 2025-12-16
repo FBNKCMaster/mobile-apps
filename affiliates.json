@@ -6,8 +6,8 @@
         "url": "https://affiliate.link/1?ref=fbkdev",
         "text": "Lorem ipsum dolor Starter Kit",
         "image": "https://placehold.co/400x60?text=Affiliate+Image1+[Starter+Kit]",
-        "image_bg": "",
-        "text_bg": "green",
+        "image_bg": "transparent",
+        "text_bg": "#00FF00",
         "text_color": "#FF0000",
         "text_size": 12,
         "delay": 3
@@ -16,9 +16,9 @@
         "url": "https://affiliate.link/2?ref=fbkdev",
         "text": "Lorem ipsum dolor Starter Kit",
         "image": "https://placehold.co/400x80?text=Affiliate+Image2+[Starter+Kit]",
-        "image_bg": "",
+        "image_bg": "#355E3B",
         "text_bg": "#0000FF",
-        "text_color": "Yellow",
+        "text_color": "#FFFF00",
         "text_size": 30,
         "delay": 5
       }
