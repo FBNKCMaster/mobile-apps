@@ -5,12 +5,22 @@
       {
         "url": "https://affiliate.link/1?ref=fbkdev",
         "text": "Lorem ipsum dolor Starter Kit",
-        "image": "https://placehold.co/400x60?text=Affiliate+Image1+[Starter+Kit]"
+        "image": "https://placehold.co/400x60?text=Affiliate+Image1+[Starter+Kit]",
+        "image_bg": "",
+        "text_bg": "",
+        "text_color": "",
+        "text_size": "",
+        "delay": 3
       },
       {
         "url": "https://affiliate.link/2?ref=fbkdev",
         "text": "Lorem ipsum dolor Starter Kit",
-        "image": "https://placehold.co/400x80?text=Affiliate+Image2+[Starter+Kit]"
+        "image": "https://placehold.co/400x80?text=Affiliate+Image2+[Starter+Kit]",
+        "image_bg": "",
+        "text_bg": "",
+        "text_color": "",
+        "text_size": "",
+        "delay": 5
       }
     ]
   },
