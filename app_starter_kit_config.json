@@ -14,8 +14,8 @@
   "enableSplashAnimation": true,
   "enableAnalytics": true,
   "enableFeedback": true,
-  "showUpgradeInMenu": false,
-  "showUpgradeInAbout": false,
+  "showUpgradeInMenu": true,
+  "showUpgradeInAbout": true,
   "onboardingMode": "once",
   "showPaywallOnOnboarding": false,
   "trialConfig": {
@@ -26,7 +26,7 @@
     "primaryColor": "#6200EE",
     "secondaryColor": "#03DAC6"
   },
-  "paymentProvider": "revenueCat",
+  "paymentProvider": "testing",
   "adaptyPlacementId": "placement_1",
   "premiumProductId": "pro_version",
   "paywallPresentationIntervalHours": 24,
