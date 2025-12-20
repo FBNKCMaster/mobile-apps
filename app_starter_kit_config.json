@@ -32,9 +32,9 @@
     "enableNotifications": true,
     "enableSplashAnimation": true,
     "enableAnalytics": true,
-    "enableFeedback": false,
+    "enableFeedback": true,
     "onboardingMode": "once",
-    "showPaywallOnOnboarding": false
+    "showPaywallOnOnboarding": true
   },
   "free": {
     "appName": "App Starter Kit (Free)",
