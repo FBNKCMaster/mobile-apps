@@ -1,0 +1,48 @@
+{
+  "appName": "App Starter Kit Pro",
+  "areAdsEnabled": false,
+  "enableThemeToggle": true,
+  "enableLocalization": true,
+  "enableAboutPage": true,
+  "enableSettingsPage": true,
+  "enableMoreApps": true,
+  "enablePaywall": true,
+  "enableInAppReview": true,
+  "enableAffiliates": true,
+  "enableConsent": true,
+  "enableNotifications": true,
+  "enableSplashAnimation": true,
+  "enableAnalytics": true,
+  "enableFeedback": true,
+  "showUpgradeInMenu": false,
+  "showUpgradeInAbout": false,
+  "onboardingMode": "once",
+  "showPaywallOnOnboarding": false,
+  "trialConfig": {
+    "launchLimit": 5,
+    "daysLimit": 7
+  },
+  "themeConfig": {
+    "primaryColor": "#6200EE",
+    "secondaryColor": "#03DAC6"
+  },
+  "paymentProvider": "revenueCat",
+  "adaptyPlacementId": "placement_1",
+  "premiumProductId": "pro_version",
+  "paywallPresentationIntervalHours": 24,
+  "supportEmail": "support@example.com",
+  "privacyPolicyUrl": "https://example.com/privacy",
+  "termsOfServiceUrl": "https://example.com/terms",
+  "moreAppsJsonUrl": "https://example.com/apps.json",
+  "affiliateJsonUrl": "https://example.com/affiliates.json",
+  "remoteConfigUrl": "https://example.com/config.json",
+  "analyticsConfig": {
+    "trackAppLaunch": true,
+    "trackUpgradeOpen": true,
+    "trackUpgradeSuccess": true,
+    "trackUpgradeFailure": true,
+    "trackFeedback": true,
+    "trackRating": true,
+    "trackAbout": true
+  }
+}
