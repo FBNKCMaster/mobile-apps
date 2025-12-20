@@ -1,6 +1,6 @@
 {
   "appName": "App Starter Kit Pro",
-  "areAdsEnabled": false,
+  "areAdsEnabled": true,
   "enableThemeToggle": true,
   "enableLocalization": true,
   "enableAboutPage": true,
@@ -34,7 +34,7 @@
   "privacyPolicyUrl": "https://example.com/privacy",
   "termsOfServiceUrl": "https://example.com/terms",
   "moreAppsJsonUrl": "https://example.com/apps.json",
-  "affiliateJsonUrl": "https://example.com/affiliates.json",
+  "affiliateJsonUrl": "https://raw.githubusercontent.com/FBNKCMaster/mobile-apps/main/affiliates.json",
   "remoteConfigUrl": "https://example.com/config.json",
   "analyticsConfig": {
     "trackAppLaunch": true,
