@@ -19,6 +19,8 @@
     "adaptyPlacementId": "placement_1",
     "premiumProductId": "pro_version",
     "paywallPresentationIntervalHours": 24,
+    "areAdsEnabled": true,
+    "enableAffiliates": true,
     "enableThemeToggle": true,
     "enableLocalization": true,
     "enableAboutPage": true,
