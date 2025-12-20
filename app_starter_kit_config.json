@@ -5,7 +5,6 @@
     "termsOfServiceUrl": "https://example.com/terms",
     "moreAppsJsonUrl": "https://raw.githubusercontent.com/FBNKCMaster/mobile-apps/main/apps.json",
     "affiliateJsonUrl": "https://raw.githubusercontent.com/FBNKCMaster/mobile-apps/main/affiliates.json",
-    "remoteConfigUrl": "https://example.com/config.json",
     "analyticsConfig": {
       "trackAppLaunch": true,
       "trackFeedback": true,
@@ -20,7 +19,6 @@
     "adaptyPlacementId": "placement_1",
     "premiumProductId": "pro_version",
     "paywallPresentationIntervalHours": 24,
-    "areAdsEnabled": true,
     "enableThemeToggle": true,
     "enableLocalization": true,
     "enableAboutPage": true,
@@ -28,17 +26,18 @@
     "enableMoreApps": true,
     "enablePaywall": true,
     "enableInAppReview": true,
-    "enableAffiliates": true,
     "enableConsent": true,
     "enableNotifications": true,
     "enableSplashAnimation": true,
     "enableAnalytics": true,
-    "enableFeedback": true,
+    "enableFeedback": false,
     "onboardingMode": "once",
     "showPaywallOnOnboarding": false
   },
   "free": {
     "appName": "App Starter Kit (Free)",
+    "areAdsEnabled": true,
+    "enableAffiliates": true,
     "showUpgradeInMenu": true,
     "showUpgradeInAbout": true,
     "trialConfig": {
@@ -53,6 +52,8 @@
   },
   "pro": {
     "appName": "App Starter Kit Pro",
+    "areAdsEnabled": false,
+    "enableAffiliates": false,
     "showUpgradeInMenu": false,
     "showUpgradeInAbout": false,
     "analyticsConfig": {
